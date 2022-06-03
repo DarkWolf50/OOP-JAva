@@ -1,0 +1,256 @@
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Accept ‘n’ integers from the user. Store and display integers in sorted order having proper collection class. The collection should not accept duplicate elements.
+[15]
+2. Write a program to calculate the sum and average of an array of 1000 integers (generated randomly) using 10 threads. Each thread calculates the sum of 100 integers. Use these values to calculate average. [Use join method ].
+[15]
+3. Viva(Java)
+[5]
+………Slip 1………
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Create a java application to store city names and their STD codes using an appropriate collection. The GUI should allow the following operations: i. Add a new city and its code (No duplicates) ii. Remove a city from the collection iii. Search for a city name and display the code
+[15]
+2. Program to define a thread for printing text on output screen for ‘n’ number of times. Create 3 threads and run them. Pass the text ‘n’ parameters to the thread constructor. Example: i. First thread prints “COVID19” 10 times. ii. Second thread prints “LOCKDOWN2020” 20 times iii. Third thread prints “VACCINATED2021” 30 times .
+[15]
+3. Viva(Java)
+[5]
+………Slip 2………
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Write a program in which thread sleep for 6 sec in the loop in reverse order from 100 to 1 and change the name of thread.
+[15]
+2. Accept ‘n’ integers from the user. Store and display integers in sorted order having proper
+collection class. The collection should not accept duplicate elements.
+[15]
+3. Viva(Java)
+[5]
+………Slip 3………
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Create the hash table that will maintain the mobile number and student name. Display the
+contact list.
+[15]
+2. Write a program to implement simple arithmetic calculator. And Performed the appropriate validations.
+Create a MOBILE table with fields Model_Number, Model_Name, Model_Color, Sim_Type, NetworkType, BatteryCapacity, InternalStorage, RAM and ProcessorType. Insert values in the table. Write a menu driven program to pass the input using Command line argument to perform the following operations on MOBILE table.
+1. Insert 2. Modify 3. Delete 4. Search 5. View All 6. Exit
+[15]
+3. Viva(Java)
+[5]
+………Slip 4………
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Write a program to display information about all columns in the DONAR table using ResultSetMetaData. [15]
+2. Define a class SavingAccount (acNo, name, balance). Define appropriate constructors and operations withdraw(), deposit() and viewBalance(). The minimum balance must be 500. Create an object and perform operations. Raise user defined InsufficientFundsException when balance is not sufficient for withdraw operation.
+[15]
+3. Viva(Java)
+[5]
+………Slip 5………
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Design a following Registration form and raise an appropriate exception if invalid information is entered like Birth Year ‘0000’
+[15]
+2. Program to define a thread for printing text on output screen for ‘n’ number of times.
+Create 3 threads and run them. Pass the text ‘n’ parameters to the thread constructor. Example: i. First thread prints “COVID19” 10 times. ii. Second thread prints “LOCKDOWN2020” 20 times iii. Third thread prints “VACCINATED2021” 30 times
+[15]
+3. Viva(Java) [5]
+ ………Slip 6………
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Write a program to calculate the sum and average of an array of 1000 integers (generated randomly) using 10 threads. Each thread calculates the sum of 100 integers. Use these values to calculate average. [Use join method ].. [15]
+2. Write a program to display information about the database and list all the tables in the database. (Use DatabaseMetaData).
+[15]
+3. Viva(Java)
+[5]
+………Slip 7………
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Create a MOBILE table with fields Model_Number, Model_Name, Model_Color, Sim_Type, NetworkType, BatteryCapacity, InternalStorage, RAM and ProcessorType. Insert values in the table. Write a menu driven program to pass the input using Command line argument to perform the following operations on MOBILE table. 1. Insert 2. Modify 3. Delete 4. Search 5. View All 6. Exit
+[15]
+2. Accept ‘n’ integers from the user. Store and display integers in sorted order having proper
+collection class. The collection should not accept duplicate elements
+[15]
+3. Viva(Java) [5] 
+………Slip 8………
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Design a servlet that provides information about a HTTP request from a client, such as IP address and browser type. The servlet also provides information about the server on which the servlet is running, such as the operating system type, and the names of currently loaded servlets. [15]
+2. Create a MOBILE table with fields Model_Number, Model_Name, Model_Color,
+Sim_Type, NetworkType, BatteryCapacity, InternalStorage, RAM and ProcessorType. Insert values in the table. Write a menu driven program to pass the input using Command line argument to perform the following operations on MOBILE table. 1. Insert 2. Modify 3. Delete 4. Search 5. View All 6. Exit
+[15]
+3. Viva(Java)
+[5]
+………Slip 9………
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Write a Program to make use of following JSP implicit objects: i. out: To display current Date and Time. ii. request: To get header information. iii. response: To Add Cookie iv. config: get the parameters value defined in <init-param> v. application: get the parameter value defined in <context-param> vi. session: Display Current Session ID vii. pageContext: To set and get the attributes. viii. page: get the name of Generated Servlet. [15]
+2. Write a program to display information about the database and list all the tables in the database. (Use DatabaseMetaData).
+[15]
+3. Viva(Java)
+[5]
+………Slip 10………
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Create a MOBILE table with fields Model_Number, Model_Name, Model_Color,
+Sim_Type, NetworkType, BatteryCapacity, InternalStorage, RAM and ProcessorType. Insert values in the table. Write a menu driven program to pass the input using Command line argument to perform the following operations on MOBILE table. 1. Insert 2. Modify 3. Delete 4. Search 5. View All 6. Exit
+[15]
+2. Design a servlet that provides information about a HTTP request from a client, such as IP address and browser type. The servlet also provides information about the server on which the servlet is running, such as the operating system type, and the names of currently loaded servlets. [15]
+3. Viva(Java)
+[5]
+………Slip 11……
+
+
+…
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Write a program to display information about the database and list all the tables in the database. (Use DatabaseMetaData). . [15]
+2. Accept ‘n’ integers from the user. Store and display integers in sorted order having proper
+collection class. The collection should not accept duplicate elements
+[15]
+3. Viva(Java) [5] 
+………Slip 12………
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Design an HTML page which passes customer number to a search servlet. The servlet searches for the customer number in a database (customer table) and returns customer details if found the number otherwise display error message. [15]
+2. Design a following Registration form and raise an appropriate exception if invalid information is entered like Birth Year ‘0000’
+[15]
+3. Viva(Java)
+[5]
+………Slip 13………
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Write a JSP program to display the details of PATIENT (PatientNo, PatientName, PatientAddress, Patientage,PatientDiease) in tabular form on browser [15]
+2. Write a program to display information about the database and list all the tables in the database. (Use DatabaseMetaData).
+[15]
+3. Viva(Java) [5]
+………Slip 14………
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Write a program to create a Online Book purchase. User must be login and then purchase the book. Each page should have a page total. The last page should display a total book and bill, which consists of a page total of what ever the purchase has been done and print the total. (Use HttpSession) [15]
+2. Accept ‘n’ integers from the user. Store and display integers in sorted order having proper collection class. The collection should not accept duplicate elements . [15]
+3. Viva(Java)
+[5]
+………Slip 15
+
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Accept ‘n’ integers from the user. Store and display integers in sorted order having
+proper collection class. The collection should not accept duplicate elements
+[15]
+2. Design an HTML page which passes customer number to a search servlet. The servlet searches for the customer number in a database (customer table) and returns customer details if found the number otherwise display error message
+[15]
+3. Viva(Java)
+[5]
+………Slip 16………
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Design a following Registration form and raise an appropriate exception if invalid information is entered like Birth Year ‘0000’
+[15]
+2 .Accept ‘n’ integers from the user. Store and display integers in sorted order having
+proper collection class. The collection should not accept duplicate elements
+[15]
+3. Viva(Java) [5]
+………Slip 17………
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Write a program to create a Online Book purchase. User must be login and then purchase
+the book. Each page should have a page total. The last page should display a total book and bill, which consists of a page total of what ever the purchase has been done and print the total. (Use HttpSession) [15]
+2. Accept ‘n’ integers from the user. Store and display integers in sorted order having
+proper collection class. The collection should not accept duplicate elements
+[15]
+3. Viva(Java) [5]
+………Slip 18………
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Accept ‘n’ integers from the user. Store and display integers in sorted order having
+proper collection class. The collection should not accept duplicate elements
+[15]
+2. Design a following Registration form and raise an appropriate exception if invalid information is entered like Birth Year ‘0000’
+[15]
+3. Viva(Java) [5]
+………Slip 19………
+
+Savitribai Phule Pune University, Pune
+R. B. Narayanrao Borawake College, Shrirampur
+Practical Examination in T.Y.B.Sc Computer Science 2021-22 Sem –II
+CS-369 Practical Course Based on Object Oriented Programming using Java-II
+Duration: 3 hours Marks: 35
+1. Write a program to display information about the database and list all the tables in the database. (Use DatabaseMetaData). [15]
+2. Design an HTML page which passes customer number to a search servlet. The servlet searches for the customer number in a database (customer table) and returns customer details if found the number otherwise display error message.
+[15]
+3. Viva(Java) [5]
+………Slip 20………
